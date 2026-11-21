@@ -131,7 +131,7 @@ does not transfer to cities absent from training.
 
 ## Citation
 
-Please cite the paper. A BibTeX entry will be added once the proceedings reference is
+A BibTeX entry will be added once the proceedings reference is
 assigned.
 
 ## License
