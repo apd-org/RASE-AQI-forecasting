@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+AQI_scraper/
+catboost_info/
+*.pkl
+*.npy
+.DS_Store

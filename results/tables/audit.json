@@ -1,0 +1,14 @@
+{
+ "raw": 541786,
+ "no_category": 0,
+ "no_date": 0,
+ "no_city": 1,
+ "unparsable": 144,
+ "out_of_range": 269,
+ "kept_before_dedup": 541372,
+ "bad_date_dropped": 0,
+ "distinct_city_strings": 372,
+ "distinct_cities_after_merge": 360,
+ "duplicate_city_days_dropped": 37388,
+ "valid_city_days": 503984
+}

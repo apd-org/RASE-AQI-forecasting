@@ -1,0 +1,29 @@
+Method,Subset,n,Coverage (%),Mean width
+Marginal,All test days,32156,81.74,59.64
+Marginal,Good,3745,73.46,30.76
+Marginal,Satisfactory,13648,83.87,44.12
+Marginal,Moderate,12079,84.8,74.53
+Marginal,Poor,2180,70.64,111.86
+Marginal,Very Poor,460,60.0,112.08
+Marginal,Severe,44,59.09,105.83
+Marginal,AQI > 200,2684,68.63,111.8
+Marginal,AQI > 300,504,59.92,111.54
+Mondrian (by issue-day category),All test days,32156,81.77,60.23
+Mondrian (by issue-day category),Good,3745,71.88,29.76
+Mondrian (by issue-day category),Satisfactory,13648,83.85,44.11
+Mondrian (by issue-day category),Moderate,12079,85.11,75.44
+Mondrian (by issue-day category),Poor,2180,71.24,114.78
+Mondrian (by issue-day category),Very Poor,460,64.35,123.72
+Mondrian (by issue-day category),Severe,44,65.91,113.67
+Mondrian (by issue-day category),AQI > 200,2684,69.97,116.29
+Mondrian (by issue-day category),AQI > 300,504,64.48,122.84
+Mondrian (by predicted category),All test days,32156,81.76,60.19
+Mondrian (by predicted category),Good,3745,72.23,29.83
+Mondrian (by predicted category),Satisfactory,13648,83.76,44.03
+Mondrian (by predicted category),Moderate,12079,85.0,75.21
+Mondrian (by predicted category),Poor,2180,71.65,116.43
+Mondrian (by predicted category),Very Poor,460,64.78,120.62
+Mondrian (by predicted category),Severe,44,61.36,114.18
+Mondrian (by predicted category),AQI > 200,2684,70.31,117.11
+Mondrian (by predicted category),AQI > 300,504,64.48,120.05
+Uncalibrated quantiles,All test days,32156,80.5,58.11

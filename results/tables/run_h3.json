@@ -1,0 +1,21 @@
+{
+ "standard_weights": {
+  "rf": 0.2222,
+  "et": 0.4183,
+  "gbr": 0.3101,
+  "hgb": 0.0114
+ },
+ "episode_weights": {
+  "rf": 0.037,
+  "et": 0.4289,
+  "gbr": 0.2878,
+  "hgb": 0.141
+ },
+ "standard_intercept": -2.4498795045246626,
+ "episode_intercept": -0.9504863836309592,
+ "gate_share_pct": 18.89023072522723,
+ "n_train": 119874,
+ "n_val": 19488,
+ "n_test": 31466,
+ "n_total": 170828
+}

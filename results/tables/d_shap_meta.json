@@ -1,0 +1,11 @@
+{
+ "additivity_max_abs_error": 0.0028503110440709634,
+ "n_explained": 320,
+ "n_severe_explained": 160,
+ "refit_max_abs_deviation": {
+  "rf": 5.684341886080802e-14,
+  "et": 5.684341886080802e-14,
+  "gbr": 5.684341886080802e-14,
+  "hgb": 5.684341886080802e-14
+ }
+}

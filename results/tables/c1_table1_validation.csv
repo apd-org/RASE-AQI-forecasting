@@ -1,0 +1,13 @@
+,RMSE (all days),RMSE (AQI > 200),RMSE (AQI > 300)
+Persistence,34.16,55.18,63.99
+AQI-level target,31.04,54.64,74.93
+AQI-change target,30.96,54.6,73.44
+"Change target, episode weight lambda = 1",31.18,53.67,69.3
+"Change target, episode weight lambda = 2",31.37,53.53,67.71
+"Change target, episode weight lambda = 4",31.7,52.46,62.68
+"Change target, episode weight lambda = 6",31.88,52.22,60.97
+"Change target, episode weight lambda = 8",32.25,52.06,59.1
+"Regime gate tau = 100, lambda = 4",31.68,52.49,62.68
+"Regime gate tau = 150, lambda = 4",31.62,52.51,62.73
+"Regime gate tau = 200, lambda = 4",31.6,53.29,63.01
+"Regime gate tau = 250, lambda = 4",31.42,54.24,64.25
